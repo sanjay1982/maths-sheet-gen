@@ -57,7 +57,7 @@ function render(fn){
       gap: 20px;
       grid-auto-flow: dense;
       font-size:xx-large;
-    }
+    } 
     
     </style>
     </head>
