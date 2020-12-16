@@ -59,9 +59,6 @@ function render(fn){
       font-size:xx-large;
     }
     
-    #grid > div {
-      background-color: lime;
-    }
     </style>
     </head>
     <body>
